@@ -3,7 +3,7 @@
 이 프로젝트는 대구가톨릭대학교 게임공학과 게임 개발 동아리 **Yggdrasil(위그드라실)**의 내부 교육을 목적으로 제작된 리포지토리입니다. 2D 탑다운 슈팅 게임의 기초적인 메커니즘을 구현하며 유니티 엔진의 핵심 기능을 학습합니다.
 
 ## 📚 리소스 출처 명시
-본 프로젝트는 **Unity Learn**의 공식 튜토리얼인 **[[2D Adventure Game: Robot Repair](https://learn.unity.com/project/2d-adventure-game-robot-repair)](https://learn.unity.com/course/691f277138cfaaa01c448657?start=true)**의 에셋과 리소스를 참고 및 활용하여 제작되었습니다.
+본 프로젝트는 **Unity Learn**의 공식 튜토리얼인 **[(https://learn.unity.com/project/2d-adventure-game-robot-repair)](https://learn.unity.com/course/691f277138cfaaa01c448657?start=true)**의 에셋과 리소스를 참고 및 활용하여 제작되었습니다.
 
 ---
 
